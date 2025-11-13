@@ -1,5 +1,8 @@
 # TechFlow - Product Showcase Website
 
+[🌐 Live Demo](https://plp-webtechnologies-classroom-july2-three-black.vercel.app)
+
+
 A responsive, multi-page product showcase website for TechFlow, a smart productivity suite. Built with HTML5, CSS3, and vanilla JavaScript.
 
 ## 📋 Project Overview
@@ -71,6 +74,8 @@ project-root/
 ## 📝 Notes
 
 This website is designed to be simple and production-ready without unnecessary complexity. All features are essential for a product showcase site and follow web development best practices.
+
+## Deployement lin
 
 ---
 
